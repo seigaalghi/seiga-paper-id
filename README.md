@@ -6,4 +6,5 @@ To Run The App
 - Then enter `npx sequelize db:create`
 - Next enter `npx sequelize db:migrate`
 - Open the API Documentation here https://documenter.getpostman.com/view/13258791/TzsYP9rR
+- To start the app, enter `node index`
 - We are ready to go
